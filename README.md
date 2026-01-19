@@ -4,10 +4,7 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> 
 
-Optimized scripts for running [HeartMuLa](https://github.com/HeartMuLa/heartlib) music generation with maximum performance on NVIDIA GPUs, especially A100.
-
-![GitHub Repo stars](https://img.shields.io/github/stars/theelderemo/HeartLib-Google-Colab)
-
+Optimized scripts for running [HeartMuLa](https://github.com/HeartMuLa/heartlib) music generation with maximum performance on NVIDIA GPUs, especially A100
 
 ## Features
 
