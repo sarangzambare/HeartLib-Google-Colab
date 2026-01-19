@@ -2,6 +2,10 @@
 
 Optimized scripts for running [HeartMuLa](https://github.com/HeartMuLa/heartlib) music generation with maximum performance on NVIDIA GPUs, especially A100.
 
+<a target="_blank" href="https://colab.research.google.com/github/theelderemo/HeartLib-Google-Colab/blob/main/HeartLib.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Features
 
 - **Flash Attention 2** integration for faster transformer inference
@@ -26,6 +30,10 @@ Optimized scripts for running [HeartMuLa](https://github.com/HeartMuLa/heartlib)
 ## Installation
 
 ### Option 1: Jupyter Notebook (Colab/Kaggle)
+
+<a target="_blank" href="https://colab.research.google.com/github/theelderemo/HeartLib-Google-Colab/blob/main/HeartLib.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 1. Upload `heartlib_optimized.ipynb` to your environment
 2. Run the cells in order:
