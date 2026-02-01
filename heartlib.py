@@ -33,8 +33,8 @@ if os.path.basename(os.getcwd()) != "heartlib":
 os.makedirs('./ckpt', exist_ok=True)
 
 !huggingface-cli download --local-dir './ckpt' 'HeartMuLa/HeartMuLaGen'
-!huggingface-cli download --local-dir './ckpt/HeartMuLa-oss-3B' 'HeartMuLa/HeartMuLa-oss-3B'
-!huggingface-cli download --local-dir './ckpt/HeartCodec-oss' 'HeartMuLa/HeartCodec-oss'
+!huggingface-cli download --local-dir './ckpt/HeartMuLa-oss-3B' 'HeartMuLa/HeartMuLa-RL-oss-3B-20260123'
+!huggingface-cli download --local-dir './ckpt/HeartCodec-oss' 'HeartMuLa/HeartCodec-oss-20260123'
 !huggingface-cli download --local-dir './ckpt/HeartTranscriptor-oss' 'HeartMuLa/HeartTranscriptor-oss'
 
 # Commented out IPython magic to ensure Python compatibility.
